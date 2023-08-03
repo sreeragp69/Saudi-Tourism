@@ -1,0 +1,259 @@
+/* navigation 
+nav ul li a {
+    padding: 0.2rem .8rem;
+    font-size: 0.8rem;
+} */
+
+/* carosal  */
+/* .carousel-item h1 {
+    font-size: 2.3rem;
+}
+.carousel-item p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+} */
+
+/* experince cards  */
+/* .card{
+    width: 20%;
+}
+
+.card-title-1{
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+
+  .card-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding-bottom: .5rem;
+}
+.card-hr{
+    margin: 0;
+    padding-bottom: .2rem;
+}
+.card-btn{
+    font-size: 13px;
+}
+.card-btn .fa-solid{
+    color: #057d8b;
+    padding-left: 5rem;
+  } */
+
+/* about saudi secion  */
+
+/* .about-saudi-btn > .fa-solid{
+    padding-left: 4rem;
+  }
+ */
+
+.h-primary {
+  color: #000;
+  font-family: Gilroy-SemiBold, Helvetica, Arial, sans-serif;
+  font-size: 2.2vmax;
+  font-weight: 500;
+  line-height: 1.7;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 0.4rem;
+  margin-left: 4rem;
+}
+
+/* laptop 1024px  */
+
+@media only screen and (max-width: 1024px) {
+  .nav-contact {
+    margin: 0.1rem 3rem;
+  }
+
+  .nav-contact span {
+    font-size: 0.6rem;
+  }
+
+  .top-lag {
+    margin: 0.1rem 3rem;
+  }
+
+  .btn-group > .btn {
+    font-size: 0.6rem;
+    padding: 0;
+  }
+
+  nav ul li a {
+    padding: 0.2rem 0.7rem;
+    font-size: 0.7rem;
+  }
+
+  .navbar .logo {
+    margin-left: 3rem;
+  }
+
+  .navbar .d-flex {
+    margin-right: 3rem;
+  }
+
+  /* carosal  */
+  .carousel-item h1 {
+    font-size: 2.5rem;
+    font-family: "Lugrasimo", cursive;
+  }
+
+  .carousel-item p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* card experince  */
+  .card-text {
+    margin-bottom: 0.5rem;
+  }
+
+  .card-title {
+    padding-bottom: 0.2rem;
+  }
+
+  .card-hr {
+    margin: 0.2rem;
+  }
+
+  .card-btn .fa-solid {
+    padding-left: 4rem;
+  }
+
+  /* about card  */
+
+  .about-saudi-btn > .fa-solid {
+    padding-left: 2.2rem;
+  }
+}
+
+/* Tablet   768px */
+
+@media only screen and (max-width: 768px) {
+  
+  .top-navigation {
+    display: none;
+  }
+
+  .carousel-indicators {
+    font-size: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .column-one {
+    margin-left: 1.5rem;
+  }
+
+  .column-content {
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+  }
+
+  .column-three {
+    margin-right: 1.5rem;
+  }
+  .h-col {
+    color: #fff;
+    font-size: 1rem;
+  }
+  .explore {
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.7rem;
+  }
+
+  .experince-btn a > button {
+    padding: 0.3rem 1.1rem;
+    font-size: 0.8rem;
+    border-radius: 20px;
+  }
+  .card-1 {
+    margin-left: 2rem;
+  }
+  .card-4 {
+    margin-right: 2rem;
+  }
+
+  .jeddah {
+    margin-bottom: 0.5rem;
+    font-size: 0.4rem;
+  }
+  .card-title-1 {
+    font-size: 0.7rem;
+  }
+  .card-text {
+    margin-bottom: 0.2rem;
+    font-size: 0.7rem;
+  }
+  .card-title {
+    margin-bottom: 0.2rem;
+    font-size: 0.7rem;
+  }
+  .card-btn .fa-solid {
+    padding-left: 3rem;
+    font-size: 0.7rem;
+  }
+  .card a > span {
+    font-size: 0.7rem;
+  }
+
+  /* about saudi  */
+
+  .card-body .about-saudi-btn {
+    font-size: 0.6rem;
+  }
+  .card-body > hr {
+    margin: 0;
+  }
+
+  .map-h h1 {
+    margin-left: 2.5rem;
+    padding-top: 1rem;
+    font-size: 1.2rem;
+  }
+  .box-l {
+    margin-left: 2.5rem;
+  }
+
+  .h-primary {
+    margin-left: 2.5rem;
+  }
+
+  .box1 .logo-f {
+    width: 4rem;
+    margin-bottom: 1rem;
+}
+.box-r {
+  margin-right: 2.5rem;
+}
+.box1 p {
+  color: gray;
+  font-size: 0.6rem;
+}
+.box1 h4 {
+  font-size: .9rem;
+  margin-bottom: 1.2rem;
+}
+.box1 ul li a {
+  font-size: 0.7rem;
+}
+
+.Authority > a p {
+  font-size: 0.8rem;
+}
+.logo-a {
+  width: 8rem;
+}
+.imgs .apple-img {
+  width: 4rem;
+}
+.imgs .playstore-img {
+  width: 4rem;
+}
+}
+
+
+
+
+
